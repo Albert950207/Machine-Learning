@@ -1,0 +1,3 @@
+A Data preprocessing package called predata
+It is written by class
+It can remove the strings in dataset, replace missing data with mean value and Normalize data
